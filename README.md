@@ -67,7 +67,7 @@
 - 그 땐 DP도 제대로 몰랐던거 같다.
 - 지금 푸니 쉽게 풀었다.
 
-[11053](https://boj.kr/11053) : [BOJ11503.java](baekjoon/src/BOJ11053.java) : 2018-09-16
+[11053](https://boj.kr/11053) : [BOJ11053.java](baekjoon/src/BOJ11053.java) : 2018-09-16
 
 - DP
 - 조금만 더 해보면 이런 식의 문제는 금방 풀 것 같다.
