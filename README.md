@@ -116,3 +116,9 @@
 - DP
 - 피보나치 활용
 - BigInteger 사용
+
+[2225](https://boj.kr/2225) : [BOJ2225.java](baekjoon/src/BOJ2225.java) : 2018-09-19
+
+- DP
+- 규칙찾기가 어려웠다
+- 결국 질문 찾아봄
