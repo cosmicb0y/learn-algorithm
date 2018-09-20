@@ -133,3 +133,15 @@
 
 - DP
 - 현재 최대값을 구할려는 인덱스의 반만큼까지 계산 반복
+
+## Samsung SW Expert Academy
+-------
+
+[5656](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE) : [SW5656](SWExpertAcademy/src/SW5656.java) : 2018-09-21
+
+- DP로 연산량 줄일 수 있을 것 같은데 영 안떠오른다.
+- 일단은 완전탐색...
+- 제시해준 풀이도 기괴하다,
+- 풀이보고 이해하면서 일단 코드를 작성해봤다.
+- 근데도 버그 쩔어서 고친다고 한시간 넘게 투자했다.
+- 다시 이해해보고 한번 더 짜봐야겠다.
