@@ -145,3 +145,9 @@
 - 풀이보고 이해하면서 일단 코드를 작성해봤다.
 - 근데도 버그 쩔어서 고친다고 한시간 넘게 투자했다.
 - 다시 이해해보고 한번 더 짜봐야겠다.
+
+[5644](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE&&&) : [SW5644](SWExpertAcademy/src/SW5644.java) : 2018-09-22
+
+- 각 단계마다 최대값 계산해서 갱신시켰다
+- 해설보니 DFS를 썼네?
+- DFS, BFS 문제 좀 풀어야겠다.
