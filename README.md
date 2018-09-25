@@ -139,6 +139,11 @@
 - BFS
 - 시간초과 계속 나서 for문을 최대한 줄였다
 
+[7569](https://boj.kr/7569) : [BOJ7569.java](baekjoon/src/BOJ7569.java) : 2018-09-25
+
+- BFS
+- 7576을 한 차원 더 늘린 것
+
 ## Samsung SW Expert Academy
 -------
 
