@@ -161,3 +161,8 @@
 - 각 단계마다 최대값 계산해서 갱신시켰다
 - 해설보니 DFS를 썼네?
 - DFS, BFS 문제 좀 풀어야겠다.
+
+[5658](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE) : [SW5658](SWExpertAcademy/src/SW5658.java) : 2018-09-26
+
+- 정렬
+- substring이랑 hex to int 하는 법을 찾아보았다.
