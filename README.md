@@ -144,10 +144,16 @@
 - BFS
 - 7576을 한 차원 더 늘린 것
 
-[11403](https://boj.kr/11403) : [BOJ11403.java](baekjoon/src/BOJ11403) : 2018-09-27
+[11403](https://boj.kr/11403) : [BOJ11403.java](baekjoon/src/BOJ11403.java) : 2018-09-27
 
 - DFS
 - 재귀적으로 짜는게 조금 힘들다
+  
+[13460](https://boj.kr/13460) : [BOJ13460.java](baekjoon/src/BOJ13460.java)
+
+- DFS
+- 코드가 너무 복잡해져서 한 번 엎었다.
+- 경계값 체크를 정확하게 안해서 몇 번 틀렸다.
 
 ## Samsung SW Expert Academy
 -------
