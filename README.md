@@ -149,11 +149,16 @@
 - DFS
 - 재귀적으로 짜는게 조금 힘들다
   
-[13460](https://boj.kr/13460) : [BOJ13460.java](baekjoon/src/BOJ13460.java)
+[13460](https://boj.kr/13460) : [BOJ13460.java](baekjoon/src/BOJ13460.java) : 2018-09-28
 
 - DFS
 - 코드가 너무 복잡해져서 한 번 엎었다.
 - 경계값 체크를 정확하게 안해서 몇 번 틀렸다.
+
+[14503](https://boj.kr/14503) : [BOJ14503.java](baekjoon/src/BOJ14503.java) : 2018-09-29
+
+- 시뮬레이션
+- 설마 바로 맞을까 했는데 통과...
 
 ## Samsung SW Expert Academy
 -------
