@@ -171,6 +171,12 @@
 - 완전탐색
 - DFS
 
+[2315](https://boj.kr/2315) : [BOJ2315.java](baekjoon/src/BOJ2315.java) : 2018-10-01
+
+- DP
+- 몇 년전에 수업에서 들었던 문제인데 다시 풀어봐도 어렵다.
+- 보안 업체, 김치 배달, 사수아탕이 비슷한 문제라고 하니 풀어봐야겠다.
+
 ## Samsung SW Expert Academy
 -------
 
