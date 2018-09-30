@@ -160,16 +160,21 @@
 - 시뮬레이션
 - 설마 바로 맞을까 했는데 통과...
 
-[14888](https://boj.kr/14888) : [BOJ14888](baekjoon/src/BOJ14888.java) : 2018-09-29
+[14888](https://boj.kr/14888) : [BOJ14888.java](baekjoon/src/BOJ14888.java) : 2018-09-29
 
 - 완전탐색
 - DFS
 - 쉬운문제 같은데 이런 종류가 잘 안 풀린다. 좀 더 풀어봐야겠다.
 
+[14889](https://boj.kr/14889) : [BOJ14889.java](baekjoon/src/BOJ14889.java) : 2018-09-30
+
+- 완전탐색
+- DFS
+
 ## Samsung SW Expert Academy
 -------
 
-[5656](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE) : [SW5656](SWExpertAcademy/src/SW5656.java) : 2018-09-21
+[5656](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE) : [SW5656.java](SWExpertAcademy/src/SW5656.java) : 2018-09-21
 
 - DP로 연산량 줄일 수 있을 것 같은데 영 안떠오른다.
 - 일단은 완전탐색...
@@ -178,13 +183,18 @@
 - 근데도 버그 쩔어서 고친다고 한시간 넘게 투자했다.
 - 다시 이해해보고 한번 더 짜봐야겠다.
 
-[5644](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE&&&) : [SW5644](SWExpertAcademy/src/SW5644.java) : 2018-09-22
+[5644](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE&&&) : [SW5644.java](SWExpertAcademy/src/SW5644.java) : 2018-09-22
 
 - 각 단계마다 최대값 계산해서 갱신시켰다
 - 해설보니 DFS를 썼네?
 - DFS, BFS 문제 좀 풀어야겠다.
 
-[5658](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE) : [SW5658](SWExpertAcademy/src/SW5658.java) : 2018-09-26
+[5658](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE) : [SW5658.java](SWExpertAcademy/src/SW5658.java) : 2018-09-26
 
 - 정렬
 - substring이랑 hex to int 하는 법을 찾아보았다.
+
+[4012](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE) : [SW4012.java](SWExpertAcademy/src/SW4012.java) : 2018-09-30
+
+- 완전탐색
+- DFS
