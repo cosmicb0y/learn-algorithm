@@ -183,6 +183,13 @@
 - 이분탐색으로도 가능하다.
 - 입력이 Int 범위를 넘어서서 long 사용
 
+[14502](https://boj.kr/14502) : [BOJ14502.java](baekjoon/src/BOJ14502.java) : 2018-10-01
+
+- 완전탐색
+- DFS
+- 이제 좀 풀리는 것 같다.
+- 코드가 뭔가 이상하다...
+
 ## Samsung SW Expert Academy
 -------
 
