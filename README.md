@@ -190,6 +190,11 @@
 - 이제 좀 풀리는 것 같다.
 - 코드가 뭔가 이상하다...
 
+[3190](https://boj.kr/3190) : [BOJ3190.java](baekjoon/src/BOJ3190.java) : 2018-10-01
+
+- 시뮬레이션
+- 꼬리를 별개로 처리해줘야했다.
+
 ## Samsung SW Expert Academy
 -------
 
