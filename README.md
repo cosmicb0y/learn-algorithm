@@ -211,6 +211,11 @@
 - 게시판 짤 때 페이지 번호 결정하는 로직이랑 좀 비슷하다.
 - 나머지가 0일 때를 고려 안해서 몇 번 틀렸다.
 
+[2667](https://boj.kr/2667) : [BOJ2667.java](baekjoon/src/BOJ2667.java) : 2018-10-04
+
+- DFS
+- [2583](https://boj.kr/2667)이랑 비슷하다
+
 ## Samsung SW Expert Academy
 -------
 
