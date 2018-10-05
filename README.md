@@ -247,7 +247,13 @@
 ## Programmers
 ------
 
-[43105](https://programmers.co.kr/learn/courses/30/lessons/43105) : [PROG43105](Programmers/src/PROG43105.java) : 2018-10-04
+[43105](https://programmers.co.kr/learn/courses/30/lessons/43105) : [PROG43105.java](Programmers/src/PROG43105.java) : 2018-10-04
 
 - DP
- 
+
+[42897](https://programmers.co.kr/learn/courses/30/lessons/42897) : [PROG42897.java](Programmers/src/PROG42897.java) : 2018-10-05
+
+- DP
+- 마지막에 처음 집이랑 마지막 집 둘 다 훔쳤는지 따져줄려다가 코드가 너무 복잡해졌다
+- 그냥 첫 집 훔쳤을때랑 안 훔쳤을 때 DP 두번 돌렸다.
+- 근데 2차원 배열로 하니깐 시간초과 뜨고 1차원 배열 2개 쓰니깐 통과한다. 뭐지?
