@@ -216,6 +216,13 @@
 - DFS
 - [2583](https://boj.kr/2667)이랑 비슷하다
 
+[15684](https://boj.kr/15684) : [BOJ15684.java](baekjoon/src/BOJ15684.java) : 2018-10-06
+
+- 브루트 포스
+- DFS
+- 연산량을 줄이기 위해 각 DFS 탐색 시작 점을 전부 하지 않고 현재 높이로 초기화 해주었다.
+- 좀 더 깔끔하게 짤 수 있을 것 같다.
+
 ## Samsung SW Expert Academy
 -------
 
