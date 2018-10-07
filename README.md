@@ -223,6 +223,12 @@
 - 연산량을 줄이기 위해 각 DFS 탐색 시작 점을 전부 하지 않고 현재 높이로 초기화 해주었다.
 - 좀 더 깔끔하게 짤 수 있을 것 같다.
 
+[2206](https://boj.kr/2206) : [BOJ2206.java](baekjoon/src/BOJ2206.java) : 2018-10-07
+
+- BFS
+- BFS 한다면서 DFS로 짜고 있었다...
+- 부술 때랑 아닐때 visited 배열을 따로 해줬어야 했다.
+
 ## Samsung SW Expert Academy
 -------
 
