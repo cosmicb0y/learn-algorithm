@@ -229,6 +229,12 @@
 - BFS 한다면서 DFS로 짜고 있었다...
 - 부술 때랑 아닐때 visited 배열을 따로 해줬어야 했다.
 
+[11728](https://boj.kr/11728) : [BOJ11728.java](baekjoon/src/BOJ11728.java) : 2018-10-08
+
+- 분할정복
+- Merge Sort 할 때 배열 합치는 로직이다
+- 그냥 한꺼번에 입력받아서 sort 돌려버리면 되는데 그런 라이브러리 쓰지 않고 구현했다.
+
 ## Samsung SW Expert Academy
 -------
 
