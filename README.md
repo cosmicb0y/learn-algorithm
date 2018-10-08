@@ -235,6 +235,11 @@
 - Merge Sort 할 때 배열 합치는 로직이다
 - 그냥 한꺼번에 입력받아서 sort 돌려버리면 되는데 그런 라이브러리 쓰지 않고 구현했다.
 
+[14863](https://boj.kr/14863) : [BOJ14863.java](baekjoon/src/BOJ14863.java) : 2018-10-08
+
+- 프로그래머스 [42899](https://programmers.co.kr/learn/courses/30/lessons/42899)와 같은 문제
+- DP
+
 ## Samsung SW Expert Academy
 -------
 
@@ -284,3 +289,9 @@
 - BFS로 할려다가 갈아엎었다.
 - 아직 DFS랑 BFS 써야하는 상황 잘 구분을 못하는 듯 하다.
 - 프로그래머스에 직접 코딩했다. 디버깅하기가 힘들다.
+
+[42899](https://programmers.co.kr/learn/courses/30/lessons/42899) : [PROG42899.java](Programmers/src/PROG42899.java) : 2018-10-08
+
+- DP
+- 또 그리디처럼 풀려고 했다.
+- 배열 크기 잘못 줘서 계속 틀렸다...
