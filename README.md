@@ -240,6 +240,10 @@
 - 프로그래머스 [42899](https://programmers.co.kr/learn/courses/30/lessons/42899)와 같은 문제
 - DP
 
+[11724](https://boj.kr/11724) : [BOJ11724.java](baekjoon/src/BOJ11724.java) : 2018-10-08
+
+- DFS
+
 ## Samsung SW Expert Academy
 -------
 
