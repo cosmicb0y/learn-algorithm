@@ -244,6 +244,13 @@
 
 - DFS
 
+[14891](https://boj.kr/14891) : [BOJ14891.java](baekjoon/src/BOJ14891.java) : 2018-10-10
+
+- 시뮬레이션
+- 돌아가는 조건이 해당 바퀴가 돌아가고 난 직후가 아니라 모든 바퀴가 돌아가기 전의 극을 보고 하는 것이였다.
+- 바퀴 하나하나가 돌아가고 난 직후의 극을 보고 판단하는 걸로 착각했다.
+- [SW Expert Academy 특이한 자석](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH&categoryId=AWIeV9sKkcoDFAVH&categoryType=CODE)과 똑같은 문제다.
+
 ## Samsung SW Expert Academy
 -------
 
@@ -271,6 +278,10 @@
 
 - 완전탐색
 - DFS
+
+[4013](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH&categoryId=AWIeV9sKkcoDFAVH&categoryType=CODE) : [SW4013.java](SWExpertAcademy/src/SW4013.java) : 2018-10-10
+
+- 시뮬레이션
 
 ## Programmers
 ------
