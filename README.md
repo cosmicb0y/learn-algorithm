@@ -251,6 +251,11 @@
 - 바퀴 하나하나가 돌아가고 난 직후의 극을 보고 판단하는 걸로 착각했다.
 - [SW Expert Academy 특이한 자석](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH&categoryId=AWIeV9sKkcoDFAVH&categoryType=CODE)과 똑같은 문제다.
 
+[14499](https://boj.kr/14499) : [BOJ14499.java](baekjoon/src/BOJ14499.java) : 2018-10-11
+
+- 시뮬레이션
+- 주사위를 이차원 배열로 어떻게 해볼려다가 그냥 1차원으로 했다
+
 ## Samsung SW Expert Academy
 -------
 
