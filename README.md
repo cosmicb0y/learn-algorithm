@@ -256,6 +256,10 @@
 - 시뮬레이션
 - 주사위를 이차원 배열로 어떻게 해볼려다가 그냥 1차원으로 했다
 
+[2178](https://boj.kr/2178) : [BOJ2178.java](baekjoon/src/BOJ2178.java) : 2018-10-13
+
+- BFS
+
 ## Samsung SW Expert Academy
 -------
 
