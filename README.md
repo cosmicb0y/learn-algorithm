@@ -260,6 +260,12 @@
 
 - BFS
 
+[12100](https://boj.kr/12100) : [BOJ12100.java](baekjoon/src/BOJ12100.java) : 2018-10-16
+
+- DFS
+- 브루트 포스
+- 단순히 연달아 있는 애만 생각하고 멀리 떨어져있는애를 생각하지 못해서 오래걸렸다.
+
 ## Samsung SW Expert Academy
 -------
 
