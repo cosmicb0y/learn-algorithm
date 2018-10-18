@@ -278,6 +278,11 @@
 - length가 2일때 'ㅗ' 모양 때문에 따로 처리해주었다.
 - length가 4일때 순회하면서 값 세어주도록 하니 시간초과가 나서 각 단계마다 더한 값을 함수에 넘겨줬다.
 
+[15683](https://boj.kr/15683) : [BOJ15683.java](baekjoon/src/BOJ15683.java) : 2018-10-18
+
+- 시뮬레이션
+- DFS
+
 ## Samsung SW Expert Academy
 -------
 
