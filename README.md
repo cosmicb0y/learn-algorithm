@@ -320,6 +320,13 @@
 
 - 시뮬레이션
 
+[2382](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl&categoryId=AV597vbqAH0DFAVl&categoryType=CODE) : [SW2382.java](SWExpertAcademy/src/SW2382.java) : 2018-10-18
+
+- 시뮬레이션
+- 3차원 배열 쓰니깐 자꾸 시간초과나서 2차원 배열로 바꾸니 맞았다
+- 3차원 배열에 한꺼번에 자료 다 집어넣어서 따로따로 접근하는거보다 2차원 배열 여러개 쓰는게 캐싱의 이점을 이용할 수 있다.
+- 3차원 배열을 많이 쓸려는 경향이 있는데 3차원 배열을 굳이 사용안해도 되는 경우면 2차원 배열을 써야겠다.
+
 ## Programmers
 ------
 
