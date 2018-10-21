@@ -288,6 +288,11 @@
 - DFS
 - 조합
 
+[16236](https://boj.kr/16236) : [BOJ16236.java](baekjoon/src/BOJ16236.java) : 2018-10-21
+
+- BFS
+- 2018년 삼성전자 신입공채 SW 역량테스트 오후 2번 문제
+
 ## Samsung SW Expert Academy
 -------
 
