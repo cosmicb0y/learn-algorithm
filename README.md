@@ -293,6 +293,11 @@
 - BFS
 - 2018년 삼성전자 신입공채 SW 역량테스트 오후 2번 문제
 
+[16235](https://boj.kr/16235) : [BOJ16235.java](baekjoon/src/BOJ16235.java) : 2018-10-22
+
+- 시뮬레이션
+- 2018년 삼성전자 신입공채 SW 역량테스트 오후 1번 문제
+
 ## Samsung SW Expert Academy
 -------
 
